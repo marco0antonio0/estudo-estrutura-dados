@@ -28,3 +28,10 @@ A aplicação de um filtro e contagens de dados referente ao covid 19 com dados 
 ![img](/image_github/imgs%20-%20slide/image_4.png)
 ## 4- Condicional veio a obito ??
 ![img](/image_github/imgs%20-%20slide/image_5.png)
+
+## Ferramentas
+-   canva
+-   figma
+-   docs google
+-   vscode - python
+-   git - add - commit - push 
